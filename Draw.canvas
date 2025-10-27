@@ -1,51 +1,79 @@
 {
 	"nodes":[
-		{"id":"a1614dcb15718234","type":"group","x":-1020,"y":-1240,"width":1360,"height":745,"label":"EXERCISES"},
-		{
-			"id":"b695a6bd7902192b",
-			"type":"text",
-			"text":"REFERENCES",
-			"styleAttributes":{"textAlign":"center"},
-			"x":880,
-			"y":-1760,
-			"width":260,
-			"height":80
-		},
-		{"id":"400995e0a6cd37db","type":"link","url":"https://www.instagram.com/_zukkk/","x":520,"y":-1560,"width":240,"height":220},
-		{"id":"1a3a9241897c15cc","type":"link","url":"https://drawabox.com/lesson/1/ghostedplanes","x":50,"y":-1040,"width":160,"height":160},
-		{"id":"cf60820629b98ac8","type":"link","url":"https://drawabox.com/lesson/1/ghostedlines","x":-419,"y":-1040,"width":180,"height":160},
-		{"id":"75b43561bcd79063","type":"link","url":"https://drawabox.com/lesson/1/superimposedlines","x":-896,"y":-1040,"width":180,"height":160},
-		{"id":"21255837db93b7dd","type":"file","file":"Draw/Files/Superimposed Lines.png","x":-1000,"y":-820,"width":387,"height":302},
-		{"id":"a04b8071faa7ff40","type":"file","file":"Draw/Files/Ghosted LInes.png","x":-529,"y":-818,"width":400,"height":300},
-		{"id":"d34089e63d0cdb04","type":"file","file":"Draw/Files/Ghosted Planes.png","x":-60,"y":-818,"width":380,"height":303},
-		{"id":"d4ab8530be865af6","type":"link","url":"https://www.instagram.com/solkorra/","x":880,"y":-1560,"width":240,"height":220},
-		{
-			"id":"602559fb3bf7010b",
-			"type":"text",
-			"text":"EXERCISES",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-475,
-			"y":-1220,
-			"width":295,
-			"height":80
-		},
-		{"id":"47baeeb69aae7a36","type":"link","url":"https://app.milanote.com/1V4l8y1drfofdc/the-iceberg?p=GTDeOfOJs1r","x":-180,"y":-1960,"width":220,"height":220},
-		{"id":"b8b0b4876a8b905e","type":"link","url":"https://belartsy.notion.site/1-linework-basic-shapes-537b5d1a874f4985b68f7849e45300df","x":-440,"y":-1960,"width":220,"height":220},
-		{"id":"0d5d818ebf4af824","type":"link","url":"https://drawabox.com/","x":-700,"y":-1960,"width":220,"height":220},
-		{"id":"a2e114b8fce0f705","type":"link","url":"https://www.soloartcurriculum.com/","x":-960,"y":-1960,"width":220,"height":220},
-		{"id":"2bf5626877eb1bc3","type":"link","url":"https://youtu.be/VtgB2pCC73M?si=RLRl19P_dX_XywV4","x":-960,"y":-1680,"width":220,"height":220},
-		{"id":"57c44fc0d5b7d008","type":"link","url":"https://www.xp-pen.com/blog/drawing-for-beginners-ideas-exercises-best-tablets.html","x":-700,"y":-1680,"width":220,"height":220},
-		{"id":"0cd3036ab817d3af","type":"link","url":"https://www.mediafire.com/file/58i3lr7wm2sk1ob/25_Drawing_Exercises_.pdf/file","x":-440,"y":-1680,"width":220,"height":220},
+		{"id":"37c1f3719d2caa8d","type":"group","x":-1620,"y":-2420,"width":1960,"height":1380,"label":"RESOURCES"},
+		{"id":"6f88d9f0d977a533","type":"group","x":-1255,"y":120,"width":1230,"height":880,"label":"MANGA"},
+		{"id":"a1614dcb15718234","type":"group","x":-1320,"y":-880,"width":1360,"height":745,"label":"EXERCISES"},
+		{"id":"d331d644a66b6321","type":"group","x":280,"y":-365,"width":660,"height":460,"label":"REFERENCES"},
+		{"id":"7e8ab5723614adda","type":"link","url":"https://youtu.be/pMC0Cx3Uk84?si=3BDpIPaetStfurS_","x":-525,"y":-1840,"width":230,"height":220},
+		{"id":"43e122d6003ee2c2","type":"link","url":"https://www.youtube.com/watch?v=b_w_hdwafV8","x":65,"y":-1840,"width":230,"height":220},
+		{"id":"2bf5626877eb1bc3","type":"link","url":"https://youtu.be/VtgB2pCC73M?si=RLRl19P_dX_XywV4","x":-1600,"y":-1840,"width":220,"height":220},
+		{"id":"57c44fc0d5b7d008","type":"link","url":"https://www.xp-pen.com/blog/drawing-for-beginners-ideas-exercises-best-tablets.html","x":-1340,"y":-1840,"width":220,"height":220},
+		{"id":"0cd3036ab817d3af","type":"link","url":"https://www.mediafire.com/file/58i3lr7wm2sk1ob/25_Drawing_Exercises_.pdf/file","x":-1080,"y":-1840,"width":220,"height":220},
+		{"id":"1d4131e8c92282d1","type":"link","url":"https://youtu.be/QW6LOn6vRmI","x":-820,"y":-1840,"width":230,"height":220},
+		{"id":"b8b0b4876a8b905e","type":"link","url":"https://belartsy.notion.site/1-linework-basic-shapes-537b5d1a874f4985b68f7849e45300df","x":-335,"y":-2180,"width":220,"height":220},
+		{"id":"a2e114b8fce0f705","type":"link","url":"https://www.soloartcurriculum.com/","x":-1115,"y":-2180,"width":225,"height":220},
 		{
 			"id":"3be984261d4402dd",
 			"type":"text",
 			"text":"RESOURCES",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-590,
-			"y":-2160,
+			"x":-745,
+			"y":-2380,
 			"width":260,
 			"height":80
-		}
+		},
+		{"id":"47baeeb69aae7a36","type":"link","url":"https://app.milanote.com/1V4l8y1drfofdc/the-iceberg?p=GTDeOfOJs1r","x":-595,"y":-2180,"width":220,"height":220},
+		{"id":"0d5d818ebf4af824","type":"link","url":"https://drawabox.com/","x":-855,"y":-2180,"width":220,"height":220},
+		{"id":"41c1706fc2ebd307","type":"link","url":"https://youtu.be/YKGJWdmrSxw?si=ORFYZQJD-I54hv99","x":-240,"y":-1840,"width":230,"height":220},
+		{"id":"04f31d82ca1cc188","type":"link","url":"https://www.youtube.com/watch?v=tx5kJvI14Jg&list=PLtG4P3lq8RHHMNwxuVk0IcGRtPGHi4vN9&index=1","x":-525,"y":-1560,"width":230,"height":220},
+		{"id":"ef03c01dcba33a15","type":"link","url":"https://br.pinterest.com/bbbelartsy/art-school-diy/lines-and-shapes/","x":-240,"y":-1560,"width":230,"height":220},
+		{"id":"0a2e51f65bdeb3ee","type":"link","url":"https://www.youtube.com/watch?v=ing1x95WZ_I&t=130s","x":65,"y":-1560,"width":230,"height":220},
+		{"id":"804ab956747668d1","type":"link","url":"https://www.youtube.com/watch?v=D6tmUJAv_k8","x":-525,"y":-1300,"width":230,"height":220},
+		{"id":"bfa9efabd5e1f25a","type":"link","url":"https://youtu.be/AlmR-WKdi3c?si=4MituuOubY3KE0YE","x":-240,"y":-1300,"width":230,"height":220},
+		{"id":"46179cb79998d424","type":"link","url":"https://www.youtube.com/playlist?list=PLpQwDE6RLPv8y_vrCZlO4HgRC0eYqX6bQ","x":65,"y":-1300,"width":230,"height":220},
+		{"id":"75b43561bcd79063","type":"link","url":"https://drawabox.com/lesson/1/superimposedlines","x":-1196,"y":-680,"width":180,"height":160},
+		{"id":"21255837db93b7dd","type":"file","file":"Draw/Files/Superimposed Lines.png","x":-1300,"y":-460,"width":387,"height":302},
+		{"id":"a04b8071faa7ff40","type":"file","file":"Draw/Files/Ghosted LInes.png","x":-829,"y":-458,"width":400,"height":300},
+		{
+			"id":"602559fb3bf7010b",
+			"type":"text",
+			"text":"EXERCISES",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-775,
+			"y":-860,
+			"width":295,
+			"height":80
+		},
+		{"id":"cf60820629b98ac8","type":"link","url":"https://drawabox.com/lesson/1/ghostedlines","x":-719,"y":-680,"width":180,"height":160},
+		{"id":"d34089e63d0cdb04","type":"file","file":"Draw/Files/Ghosted Planes.png","x":-360,"y":-458,"width":380,"height":303},
+		{"id":"1a3a9241897c15cc","type":"link","url":"https://drawabox.com/lesson/1/ghostedplanes","x":-250,"y":-680,"width":160,"height":160},
+		{"id":"4071b8452f8f7650","type":"link","url":"https://youtu.be/Cd8qyhWHKeA?si=8bnF5Tw97FPeUnpd","x":-1235,"y":340,"width":340,"height":280},
+		{"id":"a09eb3e0427fe923","type":"link","url":"https://www.youtube.com/watch?v=SwFs1WJoxsM&pp=ygUabmFva2kgbm8gbWFuYmVuIGluaW8gYXNhbm8%3D","x":-825,"y":340,"width":340,"height":280},
+		{"id":"c40d382966cf560b","type":"link","url":"https://youtu.be/c8nsujR2ml8?si=p9EEFg32aH68tm31","x":-395,"y":340,"width":350,"height":280},
+		{"id":"90faa2d39b0ac2f2","type":"link","url":"https://www.youtube.com/watch?v=ChsJPFvjMk8","x":-1235,"y":680,"width":340,"height":280},
+		{"id":"b52a5ffdcdab1fde","type":"link","url":"https://youtu.be/TbLazDkudQo?si=VN-Y8J9uOJYt_F-O","x":-825,"y":680,"width":340,"height":280},
+		{
+			"id":"ce1f4f2530dbfce2",
+			"type":"text",
+			"text":"MANGA",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-815,
+			"y":140,
+			"width":260,
+			"height":60
+		},
+		{"id":"400995e0a6cd37db","type":"link","url":"https://www.instagram.com/_zukkk/","x":300,"y":-145,"width":240,"height":220},
+		{
+			"id":"b695a6bd7902192b",
+			"type":"text",
+			"text":"REFERENCES",
+			"styleAttributes":{"textAlign":"center"},
+			"x":660,
+			"y":-345,
+			"width":260,
+			"height":80
+		},
+		{"id":"d4ab8530be865af6","type":"link","url":"https://www.instagram.com/solkorra/","x":660,"y":-145,"width":240,"height":220}
 	],
 	"edges":[
 		{
@@ -88,6 +116,7 @@
 			"id":"a84f630e90f044e8",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"0cd3036ab817d3af",
 			"fromSide":"bottom",
 			"toNode":"602559fb3bf7010b",
@@ -228,6 +257,177 @@
 			"fromNode":"47baeeb69aae7a36",
 			"fromSide":"bottom",
 			"toNode":"0cd3036ab817d3af",
+			"toSide":"top"
+		},
+		{
+			"id":"0ec2ff939557490c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"47baeeb69aae7a36",
+			"fromSide":"bottom",
+			"toNode":"1d4131e8c92282d1",
+			"toSide":"top"
+		},
+		{
+			"id":"1749c01dd35dacd6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a2e114b8fce0f705",
+			"fromSide":"right",
+			"toNode":"0d5d818ebf4af824",
+			"toSide":"left"
+		},
+		{
+			"id":"d95324583e3e9318",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b8b0b4876a8b905e",
+			"fromSide":"bottom",
+			"toNode":"41c1706fc2ebd307",
+			"toSide":"top"
+		},
+		{
+			"id":"a431a63fc56f652b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b8b0b4876a8b905e",
+			"fromSide":"right",
+			"toNode":"43e122d6003ee2c2",
+			"toSide":"top"
+		},
+		{
+			"id":"1eff36534a73d8a9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b8b0b4876a8b905e",
+			"fromSide":"bottom",
+			"toNode":"04f31d82ca1cc188",
+			"toSide":"top"
+		},
+		{
+			"id":"cb2933f867565dbd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b8b0b4876a8b905e",
+			"fromSide":"bottom",
+			"toNode":"ef03c01dcba33a15",
+			"toSide":"top"
+		},
+		{
+			"id":"6950bc6780661cb9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b8b0b4876a8b905e",
+			"fromSide":"right",
+			"toNode":"0a2e51f65bdeb3ee",
+			"toSide":"top"
+		},
+		{
+			"id":"6378e3cb03a65fa1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b8b0b4876a8b905e",
+			"fromSide":"left",
+			"toNode":"804ab956747668d1",
+			"toSide":"left"
+		},
+		{
+			"id":"b46d566adcbf5136",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b8b0b4876a8b905e",
+			"fromSide":"bottom",
+			"toNode":"7e8ab5723614adda",
+			"toSide":"top"
+		},
+		{
+			"id":"5d42e596d9c96da8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b8b0b4876a8b905e",
+			"fromSide":"right",
+			"toNode":"46179cb79998d424",
+			"toSide":"right"
+		},
+		{
+			"id":"097426f655b2823c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b8b0b4876a8b905e",
+			"fromSide":"bottom",
+			"toNode":"bfa9efabd5e1f25a",
+			"toSide":"top"
+		},
+		{
+			"id":"1d96c54ab1d97c31",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ce1f4f2530dbfce2",
+			"fromSide":"right",
+			"toNode":"c40d382966cf560b",
+			"toSide":"top"
+		},
+		{
+			"id":"1e76c81799eb70f6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ce1f4f2530dbfce2",
+			"fromSide":"bottom",
+			"toNode":"a09eb3e0427fe923",
+			"toSide":"top"
+		},
+		{
+			"id":"9fa9b6cbd66bfb73",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ce1f4f2530dbfce2",
+			"fromSide":"left",
+			"toNode":"4071b8452f8f7650",
+			"toSide":"top"
+		},
+		{
+			"id":"c3eca8911ccbc833",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ce1f4f2530dbfce2",
+			"fromSide":"left",
+			"toNode":"90faa2d39b0ac2f2",
+			"toSide":"top"
+		},
+		{
+			"id":"9d9676cd110fa817",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a09eb3e0427fe923",
+			"fromSide":"left",
+			"toNode":"4071b8452f8f7650",
+			"toSide":"right"
+		},
+		{
+			"id":"a8d9920a206aa3db",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a09eb3e0427fe923",
+			"fromSide":"right",
+			"toNode":"c40d382966cf560b",
+			"toSide":"left"
+		},
+		{
+			"id":"91ae8cba547ac9e4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ce1f4f2530dbfce2",
+			"fromSide":"bottom",
+			"toNode":"b52a5ffdcdab1fde",
+			"toSide":"top"
+		},
+		{
+			"id":"9637eb10370f6bc8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"602559fb3bf7010b",
+			"fromSide":"bottom",
+			"toNode":"6f88d9f0d977a533",
 			"toSide":"top"
 		}
 	],

@@ -1,20 +1,6 @@
 {
 	"nodes":[
-		{"id":"0d5d818ebf4af824","type":"link","url":"https://drawabox.com/","x":-700,"y":-1560,"width":220,"height":220},
-		{"id":"b8b0b4876a8b905e","type":"link","url":"https://belartsy.notion.site/1-linework-basic-shapes-537b5d1a874f4985b68f7849e45300df","x":-440,"y":-1560,"width":220,"height":220},
-		{"id":"47baeeb69aae7a36","type":"link","url":"https://app.milanote.com/1V4l8y1drfofdc/the-iceberg?p=GTDeOfOJs1r","x":-180,"y":-1560,"width":220,"height":220},
-		{"id":"a2e114b8fce0f705","type":"link","url":"https://www.soloartcurriculum.com/","x":-960,"y":-1560,"width":220,"height":220},
-		{"id":"0cd3036ab817d3af","type":"link","url":"https://www.mediafire.com/file/58i3lr7wm2sk1ob/25_Drawing_Exercises_.pdf/file","x":80,"y":-1560,"width":220,"height":220},
-		{
-			"id":"3be984261d4402dd",
-			"type":"text",
-			"text":"RESOURCES",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-440,
-			"y":-1760,
-			"width":260,
-			"height":80
-		},
+		{"id":"a1614dcb15718234","type":"group","x":-1020,"y":-1240,"width":1360,"height":745,"label":"EXERCISES"},
 		{
 			"id":"b695a6bd7902192b",
 			"type":"text",
@@ -41,6 +27,23 @@
 			"x":-475,
 			"y":-1220,
 			"width":295,
+			"height":80
+		},
+		{"id":"47baeeb69aae7a36","type":"link","url":"https://app.milanote.com/1V4l8y1drfofdc/the-iceberg?p=GTDeOfOJs1r","x":-180,"y":-1960,"width":220,"height":220},
+		{"id":"b8b0b4876a8b905e","type":"link","url":"https://belartsy.notion.site/1-linework-basic-shapes-537b5d1a874f4985b68f7849e45300df","x":-440,"y":-1960,"width":220,"height":220},
+		{"id":"0d5d818ebf4af824","type":"link","url":"https://drawabox.com/","x":-700,"y":-1960,"width":220,"height":220},
+		{"id":"a2e114b8fce0f705","type":"link","url":"https://www.soloartcurriculum.com/","x":-960,"y":-1960,"width":220,"height":220},
+		{"id":"2bf5626877eb1bc3","type":"link","url":"https://youtu.be/VtgB2pCC73M?si=RLRl19P_dX_XywV4","x":-960,"y":-1680,"width":220,"height":220},
+		{"id":"57c44fc0d5b7d008","type":"link","url":"https://www.xp-pen.com/blog/drawing-for-beginners-ideas-exercises-best-tablets.html","x":-700,"y":-1680,"width":220,"height":220},
+		{"id":"0cd3036ab817d3af","type":"link","url":"https://www.mediafire.com/file/58i3lr7wm2sk1ob/25_Drawing_Exercises_.pdf/file","x":-440,"y":-1680,"width":220,"height":220},
+		{
+			"id":"3be984261d4402dd",
+			"type":"text",
+			"text":"RESOURCES",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-590,
+			"y":-2160,
+			"width":260,
 			"height":80
 		}
 	],
@@ -79,15 +82,6 @@
 			"fromNode":"3be984261d4402dd",
 			"fromSide":"bottom",
 			"toNode":"a2e114b8fce0f705",
-			"toSide":"top"
-		},
-		{
-			"id":"5a49d279171c1f80",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"3be984261d4402dd",
-			"fromSide":"bottom",
-			"toNode":"0cd3036ab817d3af",
 			"toSide":"top"
 		},
 		{
@@ -184,6 +178,7 @@
 			"id":"45a8fd3fbf2cdcf5",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"0d5d818ebf4af824",
 			"fromSide":"bottom",
 			"toNode":"75b43561bcd79063",
@@ -206,6 +201,34 @@
 			"fromSide":"right",
 			"toNode":"1a3a9241897c15cc",
 			"toSide":"left"
+		},
+		{
+			"id":"2d435e2b1d9a488a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"47baeeb69aae7a36",
+			"fromSide":"bottom",
+			"toNode":"2bf5626877eb1bc3",
+			"toSide":"top"
+		},
+		{
+			"id":"cab849dc26eff799",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"47baeeb69aae7a36",
+			"fromSide":"bottom",
+			"toNode":"57c44fc0d5b7d008",
+			"toSide":"top"
+		},
+		{
+			"id":"e4feaf32c18218aa",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"47baeeb69aae7a36",
+			"fromSide":"bottom",
+			"toNode":"0cd3036ab817d3af",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
